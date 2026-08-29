@@ -1,0 +1,32 @@
+# Core
+numpy
+scipy
+pandas
+
+# Audio processing and environmental sound awareness
+librosa
+soundfile
+sounddevice
+tensorflow
+tensorflow-hub
+
+# Computer vision and ISL module support
+opencv-python
+mediapipe
+
+# NLP sentence refinement
+transformers
+torch
+sentencepiece
+
+# Prototype dashboard
+streamlit
+
+# Evaluation
+nltk
+sacrebleu
+jiwer
+
+# Optional utilities
+matplotlib
+scikit-learn

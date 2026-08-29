@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Datasets and generated media
+/data/raw/
+/data/processed/
+*.zip
+*.tar.gz
+*.mp3
+*.wav
+*.mp4
+*.avi
+*.mov
+
+# Model weights and checkpoints
+*.h5
+*.keras
+*.ckpt
+*.pt
+*.pth
+*.onnx
+models/
+checkpoints/
+
+# Logs and temporary files
+*.log
+.streamlit/secrets.toml
